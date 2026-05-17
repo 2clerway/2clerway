@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello👋
 
-<!--
-**2clerway/2clerway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm clerway, a minecraft graphic designer and awful mod developer
 
-Here are some ideas to get you started:
+## Commision me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can commision me on [Ko-Fi](https://ko-fi.com/2clerway/commissions)
+
+## Stuff i made:
+
+### Mods
+- [Create: GSRPM](https://modrinth.com/mod/creategsrpm)
+
+### Graphic Design
+
+- [Backrooms: The Complex](https://modrinth.com/mod/backroomsthecomplex)
