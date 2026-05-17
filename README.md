@@ -1,3 +1,5 @@
+![Banner](https://github.com/2clerway/2clerway/blob/main/assets/READMEBanner.png?raw=true)
+
 ## Hello👋
 
 I'm clerway, a minecraft graphic designer and awful mod developer
